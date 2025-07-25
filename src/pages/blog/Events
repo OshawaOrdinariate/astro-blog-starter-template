@@ -1,0 +1,11 @@
+---
+import Layout from '../layouts/BlogPost.astro';
+---
+
+<Layout
+	title="Events"
+	
+	<p>
+		Evensong at 5PM every Sunday at St. Gregory the Great Catholic Church, 194 Simcoe St S, Oshawa, ON L1H 4H1.
+	</p>
+</Layout>
